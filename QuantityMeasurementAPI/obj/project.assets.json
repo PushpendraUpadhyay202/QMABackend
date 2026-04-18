@@ -3648,23 +3648,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ASUS\\.nuget\\packages\\": {},
+    "C:\\Users\\upush\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\QMA_Backend\\QuantityMeasurementAPI\\QuantityMeasurementAPI.csproj",
+      "projectUniqueName": "D:\\QMABackend\\QuantityMeasurementAPI\\QuantityMeasurementAPI.csproj",
       "projectName": "QuantityMeasurementAPI",
-      "projectPath": "D:\\QMA_Backend\\QuantityMeasurementAPI\\QuantityMeasurementAPI.csproj",
-      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\QMA_Backend\\QuantityMeasurementAPI\\obj\\",
+      "projectPath": "D:\\QMABackend\\QuantityMeasurementAPI\\QuantityMeasurementAPI.csproj",
+      "packagesPath": "C:\\Users\\upush\\.nuget\\packages\\",
+      "outputPath": "D:\\QMABackend\\QuantityMeasurementAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\upush\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3680,14 +3680,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\QMA_Backend\\QuantityMeasurementData\\QuantityMeasurementData.csproj": {
-              "projectPath": "D:\\QMA_Backend\\QuantityMeasurementData\\QuantityMeasurementData.csproj"
+            "D:\\QMABackend\\QuantityMeasurementData\\QuantityMeasurementData.csproj": {
+              "projectPath": "D:\\QMABackend\\QuantityMeasurementData\\QuantityMeasurementData.csproj"
             },
-            "D:\\QMA_Backend\\QuantityMeasurementModel\\QuantityMeasurementModel.csproj": {
-              "projectPath": "D:\\QMA_Backend\\QuantityMeasurementModel\\QuantityMeasurementModel.csproj"
+            "D:\\QMABackend\\QuantityMeasurementModel\\QuantityMeasurementModel.csproj": {
+              "projectPath": "D:\\QMABackend\\QuantityMeasurementModel\\QuantityMeasurementModel.csproj"
             },
-            "D:\\QMA_Backend\\QuantityMeasurementService\\QuantityMeasurementService.csproj": {
-              "projectPath": "D:\\QMA_Backend\\QuantityMeasurementService\\QuantityMeasurementService.csproj"
+            "D:\\QMABackend\\QuantityMeasurementService\\QuantityMeasurementService.csproj": {
+              "projectPath": "D:\\QMABackend\\QuantityMeasurementService\\QuantityMeasurementService.csproj"
             }
           }
         }
@@ -3702,7 +3702,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "10.0.100"
+      "SdkAnalysisLevel": "10.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -3762,7 +3762,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
